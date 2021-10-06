@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "install": "^0.13.0",
+    "npm": "^7.24.2",
+    "tesseract.js": "^2.1.5",
+    "twit": "^2.2.11"
+  }
+}
+
